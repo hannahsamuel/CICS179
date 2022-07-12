@@ -3,7 +3,7 @@
 # > The computer must make no more than the minimum number of guesses, and
 # it must prevent the user from cheating by entering misleading hints.
 
-
+   
 import random
 import math
 smaller = int(input("Enter the smaller number: "))
